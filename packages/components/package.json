@@ -21,7 +21,7 @@
     "url": "git+https://github.com/syun0216/rn-tools.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "prepare": "tsc"
   },
   "bugs": {
     "url": "https://github.com/syun0216/rn-tools/issues"
